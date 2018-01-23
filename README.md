@@ -8,3 +8,6 @@
 * PhantomJS
 * Caper.JS
 
+## Todo List:
+- [ ] Multi-threading
+- [ ] Triggered at the certain time
